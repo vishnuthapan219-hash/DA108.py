@@ -1,3 +1,4 @@
-hello from main branch
-hello
-
+# this content i am changing in the new branch i have just created
+x = 34
+y = 39
+print (x * y)
